@@ -1,0 +1,32 @@
+<!doctype html>
+<html class="no-js">
+  
+  {% include head.html %}
+         
+  <body>
+
+    <div class="off-canvas-wrapper">
+      <div class="off-canvas-wrapper-inner" data-off-canvas-wrapper>
+
+       {% include header.html %}
+
+        <!-- original content goes in this container -->
+        <div class="off-canvas-content" data-off-canvas-content>
+          <div class="row column">
+
+            {{ content }} 
+          </div>
+
+          {% include footer.html %}
+          
+        </div><!-- end .off-canvas-content -->
+
+      </div><!-- end .off-canvas-wrapper-inner -->
+    </div><!-- end .off-canvas-wrapper -->
+
+    {% include load-js.html %}
+
+    
+
+  </body>
+</html>

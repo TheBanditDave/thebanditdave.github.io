@@ -1,0 +1,23 @@
+---
+layout: default
+---
+<div class="grid">
+	<div class="medium-9 large-7 small-centered column text-center">
+    <header class="post__header">
+      <h1 class="post__title--grouped">{{ page.title }}</h1>
+      <div class="post__meta">
+        <b class="post__author">{% if page.author %}{{ page.author }}{% endif %}</b>
+        <b class="post__sep">&#x25cf;</b>
+        <b class="post__date">{{ page.date | date: "%b %-d, %Y" }}</b>
+      </div>
+    </header>
+    {% if page.image %}
+    </br>
+    <img class="feat-img is-hidden-mobile" src="{{ site.url }}/img/{{ page.image }}">
+    {% endif %}
+    <article class="post__content">
+      <br>
+      {{ content }}
+    </article>   
+	</div>
+</div>

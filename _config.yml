@@ -1,0 +1,33 @@
+# Site settings
+title: WebConfs - A blog about web conferences
+name: David Hamilton
+brand: TheBanditDave
+email: thebanditdave@gmail.com
+description: A blog about my favorite web conferences.
+url: "https://thebanditdave.com" # the base hostname & protocol for your site
+twitter: TheBanditDave
+github: TheBanditDave
+analytics: 
+year: 2016
+
+# Build settings
+markdown: kramdown
+permalink: /:title
+exclude :
+  - node_modules
+
+#Default settings
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      author: David Hamilton
+      layout: "post"
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "pages" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "page"
