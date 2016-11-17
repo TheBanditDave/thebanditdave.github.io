@@ -20,10 +20,10 @@ permalink: /resume/
         </td>
         <td class="c4" colspan="1" rowspan="1">
           <p class="c34">
-            <span class="c14">1709 Olive St.</span>
+            <span class="c14">7441 E Loganwood Lane</span>
           </p>
           <p class="c19">
-            <span class="c14">Seneca, MO 64865</span>
+            <span class="c14">Rogersville, MO 65742</span>
           </p>
           <p class="c19">
             <span class="c27 c15">(417) 629-2008</span>
@@ -43,23 +43,23 @@ permalink: /resume/
           <span class="c12">Senior Software QA Engineer</span>
         </h2>
         <h3 class="c20" id="h.n64fgzu3lwuy">
-          <span class="c6">February 2012 - PRESENT</span>
+          <span class="c6">February 2012 - August 2016</span>
         </h3>
         <ul class="c28 lst-kix_ea4upvvnrd4-0 start">
           <li class="c0">
             <span class="c2">Developed and documented training for new employees.</span>
           </li>
           <li class="c0">
-            <span class="c2">Developed quality control testing standards for company.</span>
+            <span class="c2">Helped develop quality control testing standards for company.</span>
           </li>
           <li class="c0">
-            <span class="c2">Provide technical support for internal company issues.</span>
+            <span class="c2">Provided technical support for internal company issues.</span>
           </li>
           <li class="c0">
-            <span class="c2">Provide email technical support for a customer&rsquo;s Android application.</span>
+            <span class="c2">Provided email technical support for a customer&rsquo;s Android application.</span>
           </li>
           <li class="c0">
-            <span class="c2">Serve as contract team lead.</span>
+            <span class="c2">Served as contract team lead.</span>
           </li>
           <li class="c0">
             <span class="c2">Wrote test cases and performed manual testing.</span>
