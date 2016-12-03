@@ -4,7 +4,7 @@ name: David Hamilton
 brand: TheBanditDave
 email: thebanditdave@gmail.com
 description: TheBanditDave's website and blog.
-url: "http://www.thebanditdave.com" # the base hostname & protocol for your site
+url: "http://thebanditdave.com" # the base hostname & protocol for your site
 twitter: TheBanditDave
 github: TheBanditDave
 analytics: 
