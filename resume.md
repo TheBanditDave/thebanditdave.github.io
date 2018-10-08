@@ -20,10 +20,10 @@ permalink: /resume/
         </td>
         <td class="c4" colspan="1" rowspan="1">
           <p class="c34">
-            <span class="c14">7441 E Loganwood Lane</span>
+            <span class="c14">129 Cherry Street</span>
           </p>
           <p class="c19">
-            <span class="c14">Rogersville, MO 65742</span>
+            <span class="c14">Fair Grove, MO 65648</span>
           </p>
           <p class="c19">
             <span class="c27 c15">(417) 629-2008</span>
@@ -37,6 +37,28 @@ permalink: /resume/
         <h1 class="c5" id="h.y7d3xdxnr44m">
           <span class="c11">EXPERIENCE</span>
         </h1>
+        <h2 class="c10" id="h.rfgvkg2ifhfd">
+          <span class="c13">Market Maker Leads, </span>
+          <span class="c23">Springfield MO - </span>
+          <span class="c12">Developer</span>
+        </h2>
+        <h3 class="c20" id="h.n64fgzu3lwuy">
+          <span class="c6">March 2017 - Present</span>
+        </h3>
+        <ul class="c28 lst-kix_ea4upvvnrd4-0 start">
+          <li class="c0">
+            <span class="c2">Connect Real Estate MLS feeds to client sites.</span>
+          </li>
+          <li class="c0">
+            <span class="c2">Make changes to client sites to meet MLS compliance requirements.</span>
+          </li>
+          <li class="c0">
+            <span class="c2">Work with team to customize client sites to meet client requests.</span>
+          </li>
+          <li class="c0">
+            <span class="c2">Setup the development environment when a developer is onboarded.</span>
+          </li>
+        </ul>
         <h2 class="c10" id="h.rfgvkg2ifhfd">
           <span class="c13">Techni Dynamics, </span>
           <span class="c23">Seneca, MO - </span>
